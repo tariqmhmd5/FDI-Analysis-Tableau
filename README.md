@@ -20,16 +20,16 @@ A excel file
 
 **Data Head:**
 
-![Photo.jpeg]()
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/FDI-Analysis-Tableau/main/Images/DataHead.png)
 
 ---
 
 ### **Solution**
  
 
-![Photo.jpeg]()
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/FDI-Analysis-Tableau/main/Images/Dashboard%201.png)
 
-![Photo.jpeg]()
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/FDI-Analysis-Tableau/main/Images/Dashboard%202.png)
 
-![Photo.jpeg]()
+![Photo.jpeg](https://raw.githubusercontent.com/tariqmhmd5/FDI-Analysis-Tableau/main/Images/Dashboard%203.png)
 
